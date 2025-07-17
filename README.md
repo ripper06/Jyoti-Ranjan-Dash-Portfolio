@@ -1,4 +1,4 @@
-# Jyoti RANJAN DASH - Personal portfolio
+# Jyoti RANJAN DASH - Personal Portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ripper06/Jyoti-Ranjan-Dash-Portfolio)
 !
@@ -7,7 +7,12 @@ This is a fully responsive personal portfolio website, responsive for all device
 
 ## Demo
 
+### Desktop Demo
+
 ![vCard Desktop Demo](./assets/images/portfolio-img.png "Desktop Demo")
+
+### Mobile Demo
+
 ![vCard Mobile Demo](./assets/images/mobile-portfolio.png "Mobile Demo")
 
 ## Prerequisites
