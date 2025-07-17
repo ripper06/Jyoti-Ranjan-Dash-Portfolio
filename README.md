@@ -7,7 +7,7 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 [![Deployed](https://img.shields.io/badge/Live-Demo-blue?logo=vercel)](https://your-portfolio-link.com)
-[![GitHub license](https://img.shields.io/github/license/ripper06/Jyoti-Ranjan-Dash-Portfolio)](https://github.com/ripper06/Jyoti-Ranjan-Dash-Portfolio/blob/main/LICENSE)
+
 
 
 Welcome to my personal portfolio website!  
