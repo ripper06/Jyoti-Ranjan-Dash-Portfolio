@@ -1960,3 +1960,20 @@ textarea.form-input::-webkit-resizer { display: none; }
   font-family: 'Pacifico', cursive;
   color: #090a0f;
 }
+
+.resume-btn {
+  background-color: gold;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-weight: 700;
+  color: black;
+  text-decoration: none; /* removes underline */
+  display: inline-block;
+}
+
+.resume-btn:hover {
+  background-color: goldenrod;
+  font-size: large;
+}
